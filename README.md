@@ -1,168 +1,123 @@
-<!-- Custom SVG Header Animation -->
-<div align="center">
-  <!-- Snake Animation -->
-  ![Snake animation](https://github.com/{username}/blob/output/github-contribution-grid-snake-dark.svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Binel+Biju&center=true&size=30&color=58a6ff">
+</h1>
 
-  <!-- Dynamic Typing -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%8C%9F;Clean+Code+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=binelbpe&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/binelbpe?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<br/>
 
-<!-- Dynamic Stats Dashboard -->
+<!-- Introduction with Developer Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="120" />
+  <h3>MERN Stack Developer | Cloud Solutions Engineer</h3>
+</div>
+
+<!-- Tech Stack Animation -->
 <h2 align="center">
-  📊 Development Dashboard
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> 
+  Tech Stack & Tools
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={username}&bg_color=1a1b27&color=38b2ac&line=628fdb&point=38b2ac&area=true&hide_border=true" width="95%" alt="activity graph">
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username={username}&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" width="95%" alt="trophy">
-</p>
-
-<!-- Tech Stack with Animations -->
-<h2 align="center">
-  🛠️ Tech Arsenal
-  <img src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif" width="40">
-</h2>
-
-<details>
-<summary align="center">Click to expand tech stack</summary>
-<div align="center">
+  
   <!-- Frontend -->
-  <h3>Frontend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </p>
-
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
   <!-- Backend -->
-  <h3>Backend Development</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  </p>
-
-  <!-- Database & Cloud -->
-  <h3>Database & Cloud</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  </p>
-</div>
-</details>
-
-<!-- Project Showcases -->
-<h2 align="center">
-  🚀 Featured Projects
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35">
-</h2>
-
-<details>
-<summary align="center">Click to see projects</summary>
-
-<!-- Project 1 -->
-<div align="center">
-  <br>
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Professional+Networking+Platform&width=800&height=100" alt="Project 1">
-
-  <h3>🌐 4Jobs</h3>
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
-  ```typescript
-  const projectDetails = {
-    type: "Full Stack Application",
-    tech: ["React", "Node.js", "MongoDB", "WebRTC"],
-    architecture: "Clean Architecture",
-    features: [
-      "Automated Job Matching",
-      "Real-time Video Calls",
-      "Resume Parser",
-      "Advanced Analytics"
-    ],
-    performance: {
-      scalability: "Microservices Architecture",
-      security: "JWT + OAuth2.0",
-      deployment: "AWS with CI/CD"
-    }
-  };
-  ```
-
-  <a href="https://github.com/{username}/4jobs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo=4jobs&theme=tokyonight" />
-  </a>
+  <!-- Cloud & DevOps -->
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 </div>
 
-<!-- Project 2 -->
+<!-- Featured Projects with Preview GIFs -->
+<h2 align="center">🚀 Featured Projects</h2>
+
 <div align="center">
-  <br>
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=E-Commerce+Platform&width=800&height=100" alt="Project 2">
-  
-  <h3>🛍️ 4Watches</h3>
-
-  ```typescript
-  const projectDetails = {
-    type: "E-Commerce Platform",
-    tech: ["Node.js", "Express", "MongoDB", "EJS"],
-    features: [
-      "Dynamic Product Management",
-      "Secure Payment Integration",
-      "Real-time Order Tracking",
-      "Analytics Dashboard"
-    ],
-    architecture: "MVC Pattern",
-    deployment: "AWS EC2 with Load Balancing"
-  };
-  ```
-
-  <a href="https://github.com/{username}/4watches">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo=4watches&theme=tokyonight" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">4Jobs - Professional Network</h3>
+        <div align="center">
+          <a href="https://github.com/binelbpe/4jobs" target="_blank">
+            <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="4Jobs"/>
+          </a>
+          <p>
+            <a href="https://github.com/binelbpe/4jobs" target="_blank">
+              <img src="https://img.shields.io/badge/Code-👨‍💻-informational?style=flat&logo=github&logoColor=white&color=58a6ff">
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-🌐-informational?style=flat&logo=netlify&logoColor=white&color=58a6ff">
+            </a>
+          </p>
+          <p><strong>React, Node.js, MongoDB, AWS</strong> - Professional networking platform with real-time features, job matching, and video calls</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">4Watches - E-commerce</h3>
+        <div align="center">
+          <a href="https://github.com/binelbpe/4watches" target="_blank">
+            <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="4Watches"/>
+          </a>
+          <p>
+            <a href="https://github.com/binelbpe/4watches" target="_blank">
+              <img src="https://img.shields.io/badge/Code-👨‍💻-informational?style=flat&logo=github&logoColor=white&color=58a6ff">
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-🌐-informational?style=flat&logo=netlify&logoColor=white&color=58a6ff">
+            </a>
+          </p>
+          <p><strong>Node.js, Express, MongoDB, EJS</strong> - Full-featured e-commerce platform with dynamic UI and secure payments</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-</details>
 
 <!-- GitHub Stats with Animations -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={username}&theme=radical&hide_border=true" width="48%" alt="streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=binelbpe&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=binelbpe&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
-<!-- Custom Productivity Stats -->
-```javascript
-// 2024 Development Goals
-const annualGoals = {
-  learnNewTech: [
-    "GraphQL Federation",
-    "Kubernetes",
-    "Web3 Development"
-  ],
-  improveSkills: [
-    "System Design",
-    "Design Patterns",
-    "Performance Optimization"
-  ],
-  createContent: [
-    "Tech Blog",
-    "Open Source Contributions",
-    "Community Workshops"
-  ]
-};
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binelbpe&custom_title=Binel's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binelbpe&theme=tokyonight&no-frame=true&no-bg=true&row=1" alt="GitHub Trophies" />
+</div>
+
+<!-- Connect Section with Floating Animation -->
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:binelbpe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/binelbpe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/binelbpe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username={username}&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile Views">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%" />
 </div>
