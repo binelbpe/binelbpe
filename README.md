@@ -1,75 +1,91 @@
-<h1 align="center">Hi 👋, I'm Binel Biju</h1>
-<h3 align="center">Autodidactic MERN Stack Developer | Passionate about building scalable full-stack solutions</h3>
+<!-- Profile Header with Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Binel+Biju+%F0%9F%91%8B;MERN+Stack+Developer;Building+the+Future" alt="Typing SVG" />
 
----
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=binelbpe&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile Views" />
 
-- 👀 **I’m interested in:** Building impactful applications, cloud computing, and contributing to open-source projects.
+  <!-- Social Links -->
+  <p>
+    <a href="https://linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:binelbpe@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://leetcode.com/your-profile">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+  </p>
+</div>
 
-- 🌱 **Currently learning:** Advanced MERN concepts, cloud technologies (AWS), and software architecture principles.
+<!-- About Me Section -->
+### 🚀 About Me
+```typescript
+const developer = {
+    name: "Binel Biju",
+    role: "Full Stack Developer",
+    code: ["TypeScript", "JavaScript", "Node.js", "React"],
+    architecture: ["microservices", "event-driven", "clean code"],
+    currentlyBuilding: "Scalable web applications with MERN stack",
+    challenge: "Mastering one new technology every quarter"
+};
+```
 
-- 💞️ **Looking to collaborate on:** Full-stack web applications, MERN projects, and innovative solutions using cloud integrations.
-
-- 📫 **How to reach me:** 
-  - Email: [binelbpe@gmail.com](mailto:binelbpe@gmail.com)
-  - LinkedIn: [linkedin.com/in/binelbpe](https://www.linkedin.com/in/binelbpe)
-  - GitHub: [github.com/binelbpe](https://github.com/binelbpe)
-
-- 😄 **Pronouns:** He/Him
-
-- ⚡ **Fun fact:** I love to take on complex projects as a way of learning; my curiosity fuels my growth in tech!
-
----
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+<!-- Tech Stack Section -->
+### 💻 Tech Stack
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
+  <!-- Cloud & Tools -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 🚀 Projects
-
-#### [4Jobs - Professional Networking Platform](https://github.com/binelbpe/4jobs)
-- A LinkedIn-like platform for job seekers, recruiters, and admins with real-time messaging, job matching, and video calls.
-- **Technologies:** React, Redux, Node.js, Express.js, MongoDB, AWS, Nginx, DigitalOcean
-- **Features:** Multi-role functionality, automated job matching, resume builder, recruiter dashboard, live chat, and Clean Architecture.
-
-#### [4Watches - E-commerce Website](https://github.com/binelbpe/4watches)
-- A seamless online store featuring dynamic UI and responsive design for an optimal shopping experience.
-- **Technologies:** Node.js, Express, MongoDB, EJS, Bootstrap, AJAX
-- **Features:** Responsive templates, AJAX for dynamic updates, AWS hosting, secure payments with Razorpay.
-
-#### [CRUD App with Redux and JWT](https://github.com/binelbpe/crud-app)
-- A secure CRUD app with user and admin dashboards.
-- **Technologies:** React, Redux, Node.js, JWT, Bootstrap
-- **Features:** Role-based access, responsive frontend, secure authentication.
-
----
-
+<!-- GitHub Stats -->
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binelbpe&show_icons=true&theme=radical" alt="Binel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binelbpe&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=binelbpe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binelbpe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <!-- GitHub Streak Stats -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=binelbpe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<!-- Featured Projects -->
+### 🌟 Featured Projects
+<div align="center">
+  <!-- Project Cards -->
+  <a href="https://github.com/binelbpe/4jobs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binelbpe&repo=4jobs&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/binelbpe/4watches">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=binelbpe&repo=4watches&theme=tokyonight" />
+  </a>
+</div>
 
-### 🤝 Let's Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/binelbpe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/binelbpe">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:binelbpe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+<!-- Quote of the Day -->
+<div align="center">
+  
+### ⚡ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
